@@ -30,5 +30,5 @@
 * http://localhost:8080//api/usersDummy
 
 * Test Users to Login with: 
-* username : aisaacs password: P@ssword1
-* username : Paul password: P@ssword2
+* username : ###aisaacs password: ###P@ssword1
+* username : ###Paul password: ###P@ssword2
