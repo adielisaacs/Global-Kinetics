@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.globalkinetic.Globalkineticv2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.404 s - in com.globalkinetic.Globalkineticv2ApplicationTests
